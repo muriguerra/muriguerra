@@ -1,17 +1,15 @@
-### Hi there 👋
+👋 Hello, I'm Murilo! I'm a Mathematics student with a passion for technology and data science.
 
-<!--
-**muriguerra/muriguerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+-  Currently pursuing a Mathematics degree.
+-  Technology enthusiast, with a focus on machine learning and data science.
+-  Proficient in Python for data science, including Numpy, Pandas, and Seaborn.
+-  Knowledge in PyTorch and SKLearn for deep learning model development.
+-  Interested in time series analysis and Natural Language Processing (NLP).
 
-Here are some ideas to get you started:
+## Contact
+-  Email: murilohesiguerra@gmail.com
+-  [LinkedIn](https://www.linkedin.com/in/muriguerra)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
+Feel free to explore my repositories on GitHub and get in touch if you have any questions or collaboration opportunities. I'm excited to connect and learn from fellow technology and data science enthusiasts!
